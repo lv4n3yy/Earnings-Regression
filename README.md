@@ -15,7 +15,7 @@
 **Prediction:** Bachelor's (16 years schooling) + 5 years EXP = **$XX.XX/hour**
 
 ## 📈 Visualizations
-Screenshot 2025-12-29 at 15.53.18.png
+(Screenshot 2025-12-29 at 15.53.18.png)
 Screenshot 2025-12-29 at 15.53.22.png
 Screenshot 2025-12-29 at 15.53.26.png
 Screenshot 2025-12-29 at 15.53.29.png
