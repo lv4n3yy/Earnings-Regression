@@ -15,10 +15,12 @@
 **Prediction:** Bachelor's (16 years schooling) + 5 years EXP = **$XX.XX/hour**
 
 ## 📈 Visualizations
-(Screenshot 2025-12-29 at 15.53.18.png)
-Screenshot 2025-12-29 at 15.53.22.png
-Screenshot 2025-12-29 at 15.53.26.png
-Screenshot 2025-12-29 at 15.53.29.png
+
+![Residuals Distribution](Screenshot%202025-12-29%20at%2015.53.18.png)
+![Residuals vs Fitted](Screenshot%202025-12-29%20at%2015.53.22.png)
+![Multivariable Residuals](Screenshot%202025-12-29%20at%2015.53.26.png)
+![Multivariable Scatter](Screenshot%202025-12-29%20at%2015.53.29.png)
+
 
 ## 🛠️ Tech Stack
 
